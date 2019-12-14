@@ -1,0 +1,6 @@
+http://localhost/restoran_laravel/public/pegawai/login
+http://localhost/restoran_laravel/public/pelanggan/login
+
+pegawai
+user : anjani	
+pass : anjani
