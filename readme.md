@@ -1,6 +1,4 @@
 
-<p align="center">Website restoran dengan framework Laravel 5.6</p>
-
 ## Installation
 
 Laravel 5.6 menggunakan PHP versi 7.0. Jadi kalau belum update dulu. Lalu pastikan sudah menginstal composer.
