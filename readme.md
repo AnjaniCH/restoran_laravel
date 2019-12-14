@@ -11,13 +11,13 @@ Laravel 5.6 menggunakan PHP versi 7.0. Jadi kalau belum update dulu. Lalu pastik
 1. Clone repository, bisa di download .zip atau dengan perintah git clone seperti ini
 
 ```
-git clone https://github.com/jhonarendra/prognet8.git
+git clone https://github.com/AnjaniCH/restoan_laravel.git
 ```
 
-2. Pada cmd, pindah ke folder prognet8 contohnya
+2. Pada cmd, pindah ke folder restoran_laravel contohnya
 
 ```
-cd c:/xampp/htdocs/prognet8
+cd c:/xampp/htdocs/restoran_laravel
 ```
 
 lalu instal composer
@@ -46,7 +46,7 @@ php artisan db:seed
 
 5. Siap dijalankan...
 
-<p align="center">Apabila memerlukan database sqldump, file bernama prognet8.sql</p>
+<p align="center">Apabila memerlukan database sqldump, file bernama resto.sql</p>
 
 ## Contributing
 
@@ -70,18 +70,4 @@ git commit -m "pesan"
 ```
 git push origin master
 ```
-## Screenshot
-![](https://raw.githubusercontent.com/jhonarendra/prognet8/master/screenshot/index.png)
 
-## Online Demo
-[DEMO](http://prognet8.tk/public)
-
-## Kelompok 8
-
-<p>1605551049 - Putu Jhonarendra</p>
-<p>1605551113 - ILHAM YOGA PRABHASWARA</p>
-<p>1605551054 - I MADE ADHIARTA WIKANTYASA</p>
-<p>1605551023 - Anak Agung Bagus Arya Wiradarma</p>
-<p>1605551097 - MARRIA TESALONIKA SIREGAR</p>
-<p>1605552028 - Dwiki Surya Chen</p>
-<p>1605552033 - Boy Jehezkiel Kamanang Mahar</p>
